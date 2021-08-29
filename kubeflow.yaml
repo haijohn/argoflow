@@ -7,7 +7,7 @@ spec:
   project: default
   source:
     repoURL: https://github.com/haijohn/argoflow.git
-    targetRevision: v0.1.0
+    targetRevision: v0.1.1
     path: .
     kustomize:
       version: v4.0.5
